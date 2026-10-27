@@ -238,16 +238,5 @@ Terminology can overlap: a private blockchain is often permissioned. The exact d
 
 The correct choice depends on the application's trust assumptions, governance requirements, privacy needs, and performance requirements.
 
-## 11. The most important lessons from Lecture 1
 
-- Blockchain is a distributed record-keeping technology, not just a cryptocurrency platform.
-- Data integrity is one of its main objectives.
-- Hashes link records cryptographically, while digital signatures authenticate transactions.
-- Consensus helps participating nodes agree on accepted records.
-- Replication helps maintain availability and shared copies of the ledger.
-- Double spending is a fundamental problem in digital currency systems.
-- Supply-chain tracking, land records, banking, identity-access logs, and academic records are potential blockchain applications.
-- Blockchain can reduce dependence on a single trusted record-keeper, but it does not eliminate every form of trust.
-- Blockchain is not always necessary; a conventional database may be a better solution.
-- The trust model and threat model should be understood before selecting a blockchain architecture.
 
